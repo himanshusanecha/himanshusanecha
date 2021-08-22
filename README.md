@@ -1,7 +1,23 @@
-<h1>Hi , I'm Himanshu Sanecha<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
+<h1>Hi , I'm Himanshu Sanecha</h1>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Information+Technolgy+Student;MEVN+Stack+Developer;Exploring+growth+of+web+applications&center=true&width=500&height=50"></a>
+    <img align="right" src="avento.gif" height="200" width="200"/>
 </p>
+
+### About Me
+
+🙋 Hello myself Himanshu Sanecha.
+
+🏠 Currently pursuing my undergraduate in IIIT Vadodara.
+
+✨ I love to solve problems involving data structures, algorithms and mathematics.
+
+💁 I love to build Web applications starting from designing to writing efficient algorithms in the backend.
+
+🌅 In the near future I want to work on integration of web applications with technologies like Artificial Intelligence and Blockchain to enhance User experience and reduce installation costs.
+
+💪 My strengths are - Community involvement, Leadership, positive attitude and a zeal to learn as much possible.
+
 
 ### 🛠 &nbsp;Tech Stack
 
