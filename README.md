@@ -1,3 +1,8 @@
+<h1>Hi , I'm Himanshu Sanecha<img src="https://i.imgur.com/veZrcC7.gif" alt="Meaow" width="50" /></h1>
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Information+Technolgy+Student;MEVN+Stack+Developer;Exploring+growth+of+web+applications&center=true&width=500&height=50"></a>
+</p>
+
 ### 🛠 &nbsp;Tech Stack
 
 #### Languages
