@@ -1,4 +1,4 @@
-<h1>Hi , I'm Himanshu Sanecha <img src="bJk.gif" width="50" height="50" /></h1>
+<h1>Hi , I'm Himanshu Sanecha</h1>
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=FF1414&lines=Information+Technolgy+Student;MEVN+Stack+Developer;Exploring+growth+of+web+applications&center=true&width=500&height=50"></a>
     <img align="right" src="avento.gif" height="200" width="200"/>
