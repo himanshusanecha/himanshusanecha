@@ -68,3 +68,6 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=himanshusanecha&show_icons=true&theme=nightowl&line_height=32">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusanecha&theme=algolia">
 </p>
+<p align="center">
+    <img height="30" src="https://komarev.com/ghpvc/?username=aviraltandon21&color=orange&style=flat-square">
+</p>
