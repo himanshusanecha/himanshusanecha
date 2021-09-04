@@ -69,5 +69,5 @@
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=himanshusanecha&theme=algolia">
 </p>
 <p align="center">
-    <img height="30" src="https://komarev.com/ghpvc/?username=aviraltandon21&color=orange&style=flat-square">
+    <img height="30" src="https://komarev.com/ghpvc/?username=himanshusanecha&color=orange&style=flat-square">
 </p>
